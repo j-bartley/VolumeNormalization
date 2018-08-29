@@ -1,0 +1,12 @@
+You must install FFmpeg first:
+
+https://www.wikihow.com/Install-FFmpeg-on-Windows
+
+Its easy enough but there is no installer, just put the unzipped file in program files and then create the system environment variable as described in the link
+
+Idk if you got ruby installed but you need it
+
+Just open the installer in this folder
+
+After that you should be good to go, just pop the .rb and .bat in a folder with .mp4's and open the bat.
+Some of the code my be only relevent to my file sctructure. Let me know.
